@@ -40,4 +40,4 @@ let stringsomenumber =String(somenumber);
 console.log(stringsomenumber);
 // now check what type data is...
 console.log(typeof stringsomenumber);
-
+// *************opretions*******************
